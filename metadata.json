@@ -1,0 +1,5 @@
+{
+  "name": "Live Support Chat",
+  "description": "A real-time customer support chat system using React and Socket.IO.",
+  "requestFramePermissions": []
+}
